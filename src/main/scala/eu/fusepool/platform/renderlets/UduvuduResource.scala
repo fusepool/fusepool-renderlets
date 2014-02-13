@@ -52,7 +52,7 @@ class UduvuduResource extends SRenderlet {
     <script src="/scripts/uduvudu/lib/underscore-1.5.1.js" type="text/javascript"></script>
     <script src="/scripts/uduvudu/lib/jquery-1.10.2.min.js" type="text/javascript"></script>
     <script src="/scripts/uduvudu/lib/handlebars-v1.3.0.js" type="text/javascript"></script>
-    <script src="/scripts/uduvudu/lib/rdf_store.js" type="text/javascript"></script>
+    <script src="/scripts/uduvudu/lib/rdfstore-0.8.1-fix.js" type="text/javascript"></script>
     <script src="/scripts/uduvudu/matcher.js" type="text/javascript"></script>
     <script src="/scripts/uduvudu/uduvudu.js" type="text/javascript"></script>
 </head>
