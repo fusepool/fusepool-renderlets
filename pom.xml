@@ -61,41 +61,6 @@
             <artifactId>rdf.ontologies</artifactId>
             <version>0.12</version>
         </dependency>
-        <!-- <dependency>
-            <groupId>org.apache.clerezza</groupId>
-            <artifactId>platform.graphprovider.content</artifactId>
-            <version>0.7-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.clerezza</groupId>
-            <artifactId>platform.graphnodeprovider</artifactId>
-            <version>0.2-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.clerezza</groupId>
-            <artifactId>platform.typerendering.seedsnipe</artifactId>
-            <version>0.7-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.clerezza</groupId>
-            <artifactId>web.fileserver</artifactId>
-            <exclusions>
-                <exclusion>
-                    <artifactId>javax.servlet</artifactId>
-                    <groupId>org.apache.felix</groupId>
-                </exclusion>
-            </exclusions>
-            <version>0.10-SNAPSHOT</version>
-        </dependency>
-        <dependency>
-            <groupId>org.wymiwyg</groupId>
-            <artifactId>wymiwyg-commons-core</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.clerezza</groupId>
-            <artifactId>jaxrs.utils</artifactId>
-            <version>0.9-SNAPSHOT</version>
-        </dependency> -->
         <dependency>
             <groupId>org.apache.felix</groupId>
             <artifactId>org.apache.felix.scr.annotations</artifactId>
@@ -106,10 +71,6 @@
             <artifactId>platform.config</artifactId>
             <version>0.4</version>
         </dependency>
-        <!--    <dependency>
-            <groupId>org.apache.clerezza</groupId>
-            <artifactId>platform.security</artifactId>
-        </dependency> -->
         <dependency>
             <groupId>org.apache.clerezza</groupId>
             <artifactId>platform.typerendering.scalaserverpages</artifactId>
